@@ -30,28 +30,27 @@ The extracted features and processed data are organized in the corresponding fol
 ---
 
 ## Repository Structure
-
-
+ 
 IT_ACB/
 │
 ├── Feature_extraction/
-│ └── Feature extraction codes
+│   └── Feature extraction codes
 │
 ├── LFW127/
-│ └── LFW face dataset features
+│   └── LFW face dataset features
 │
 ├── PolyU_data/
-│ └── PolyU palmprint dataset features
+│   └── PolyU palmprint dataset features
 │
 ├── TJU_data/
-│ └── TJU palmprint dataset features
+│   └── TJU palmprint dataset features
 │
 ├── WebFace/
-│ └── CASIA-WebFace dataset features
+│   └── CASIA-WebFace dataset features
 │
 └── Proposed/
-└── Implementation of the proposed IT-ACB framework
-
+    └── Implementation of the proposed IT-ACB framework
+ 
 
 ---
 

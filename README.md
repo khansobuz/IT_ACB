@@ -30,7 +30,8 @@ The extracted features and processed data are organized in the corresponding fol
 ---
 
 ## Repository Structure
- 
+
+<pre>
 IT_ACB/
 │
 ├── Feature_extraction/
@@ -50,10 +51,7 @@ IT_ACB/
 │
 └── Proposed/
     └── Implementation of the proposed IT-ACB framework
- 
-
----
-
+</pre>
 ## Requirements
 
 - Python 3.x
